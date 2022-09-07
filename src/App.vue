@@ -43,109 +43,109 @@
   }
 
   .text900{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 900;
     font-size: 2rem;
   }
 
   .text900Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 900;
     font-style: italic;
     font-size: 2rem;
   }
 
   .text800{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 800;
     font-size: 1.875rem;
   }
   .text800Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 800;
     font-style: italic;
     font-size: 1.875rem;
   }
 
   .text700{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 700;
     font-size: 1.75rem;
   }
   .text700Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 700;
     font-style: italic;
     font-size: 1.75rem;
   }
 
   .text600{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 600;
     font-size: 1.625rem;
   }
   .text600Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 600;
     font-style: italic;
     font-size: 1.625rem;
   }
 
   .text500{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 500;
     font-size: 1.5rem;
   }
   .text500Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 500;
     font-style: italic;
     font-size: 1.5rem;
   }
 
   .text400{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 400;
     font-size: 1.375rem;
   }
   .text400Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 400;
     font-style: italic;
     font-size: 1.375rem;
   }
 
   .text300{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 300;
     font-size: 1.25rem;
   }
   .text300Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 300;
     font-style: italic;
     font-size: 1.25rem;
   }
 
   .text200{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 200;
     font-size: 1.125rem;
   }
   .text200Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 200;
     font-style: italic;
     font-size: 1.125rem;
   }
 
   .text100{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 100;
     font-size: 1rem;
   }
   .text100Italic{
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Noto Sans';
     font-weight: 100;
     font-style: italic;
     font-size: 1rem;
